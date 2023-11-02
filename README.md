@@ -5,7 +5,7 @@ In this tool, the output of samtools pileup is to be converted into a matrix. Th
 Download the pileupReformater.jar and save it to a local folder. 
 
 ## Run pileupReformater
-To run the tool, change in the console to the directory where pileupReformater.jar is located and execute the code below. INPUT must be replaced by the name of the pileup file to be transformed (myPileup.pileup).
+To run the tool, change in the console to the directory where pileupReformater.jar is located and execute the code below. <INPUT> must be replaced by the name of the pileup file to be transformed (myPileup.pileup).
 ```
 java -jar PileupReformater.jar <INPUT>
 ```
